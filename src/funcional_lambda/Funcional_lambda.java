@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package funcional_lambda;
-import java.util.function.BiPredicate;
+
 /**
  *
  * @author mahmoud_mohsen
